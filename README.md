@@ -11,3 +11,5 @@ Run each Part 01 script before its Part 02 script.
 
 `Products.CategoryId` allows NULL so that a product can be inserted with only its
 `Name` and `UnitPrice`, as Part 02 asks.
+
+[`Solution-Screenshots.pdf`](Solution-Screenshots.pdf) contains every script above as page images, as a backup.
