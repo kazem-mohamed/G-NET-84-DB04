@@ -1,0 +1,15 @@
+## IDE folders
+.vs/
+.idea/
+
+## User-specific files
+*.user
+*.suo
+
+## OS files
+Thumbs.db
+.DS_Store
+
+## Logs and backups
+*.log
+*.bak
